@@ -10,10 +10,10 @@ The main goal is to go through the data analysis process and see how everything 
 ### Information about this project:
  - The tools used in this project is **Python libraries such as NumPy, pandas, and Matplotlib**.
  - The Databases :
-1. no-show-appointments-2016.csv :
+  1. no-show-appointments-2016.csv :
 This dataset is from Kaggle (https://www.kaggle.com/joniarroba/noshowappointments). 
 It contains more than 100K medical appointments information from Brazil in 2016. 
-2. noshow_cleaned.csv: Cleaned dataset 
+  2. noshow_cleaned.csv: Cleaned dataset 
   - In this project, The main concern of this dataset is whether the patients show up on their scheduled appointment or no. Different characteristics of each patient and appointment are included in the dataset.
 
 ### The Steps:
