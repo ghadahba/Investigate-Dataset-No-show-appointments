@@ -1,4 +1,4 @@
-# Investigate-a-Dataset-No-show-appointments-
+# Investigate a Dataset(No show appointments)
 This is the second project in the Data Analyst Nanodegree by Udacity.
 
 ### Getting Started
